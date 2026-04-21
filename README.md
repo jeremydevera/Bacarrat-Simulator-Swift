@@ -1,6 +1,6 @@
 ## Native Swift App
-- This is an ongoing project
-  Version 1.0 - April 22, 2026
+- Version 1.0 - April 22, 2026
+- Version 1.1 - Ongoing
   
 The Swift app includes:
 
