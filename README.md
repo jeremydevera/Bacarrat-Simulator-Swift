@@ -2,10 +2,7 @@
 
 A Baccarat simulator built in SwiftUI, with a lightweight browser port included in the repo.
 
-## Included Apps
-
-- `Bacarrat Sim/`: the native SwiftUI app for iPhone/iPad simulation
-
+<img width="556" height="1166" alt="image" src="https://github.com/user-attachments/assets/65a36cd8-c7f4-49f7-abe7-1b9f2232f4ad" />
 
 ## Native Swift App
 
