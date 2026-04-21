@@ -1,5 +1,7 @@
 ## Native Swift App
-
+- This is an ongoing project
+  Version 1.0 - April 22, 2026
+  
 The Swift app includes:
 
 - 30 live simulated baccarat tables
