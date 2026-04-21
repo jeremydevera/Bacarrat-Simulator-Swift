@@ -1,5 +1,6 @@
 ## Native Swift App
 - Version 1.0 - April 22, 2026
+  - First Release
 - Version 1.1 - Ongoing
   
 The Swift app includes:
