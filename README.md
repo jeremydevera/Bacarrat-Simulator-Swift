@@ -1,14 +1,3 @@
-# Bacarrat Simultor Swift
-
-A Baccarat simulator built in SwiftUI, with a lightweight browser port included in the repo.
-<p align="center">
-  <img width="240" alt="image 1" src="https://github.com/user-attachments/assets/d1e952d0-2de3-481a-b7bb-45336e2fc328" />
-  &nbsp;&nbsp;
-  <img width="240" alt="image 2" src="https://github.com/user-attachments/assets/5984bca9-2bea-4191-83ac-6b5cb42b4de5" />
-  &nbsp;&nbsp;
-  <img width="240" alt="image 3" alt="image" src="https://github.com/user-attachments/assets/52ce67fb-a73c-4c69-8242-1dd6910d7628" />
-
-</p>
 ## Native Swift App
 
 The Swift app includes:
@@ -25,7 +14,14 @@ Main files:
 
 - `Bacarrat Sim/ContentView.swift`
 - `Bacarrat Sim/Bacarrat_SimApp.swift`
-
+- 
+<p align="center">
+  <img width="240" alt="image 1" src="https://github.com/user-attachments/assets/d1e952d0-2de3-481a-b7bb-45336e2fc328" />
+  &nbsp;&nbsp;
+  <img width="240" alt="image 2" src="https://github.com/user-attachments/assets/5984bca9-2bea-4191-83ac-6b5cb42b4de5" />
+  &nbsp;&nbsp;
+  <img width="240" alt="image 3" alt="image" src="https://github.com/user-attachments/assets/52ce67fb-a73c-4c69-8242-1dd6910d7628" />
+</p>
 
 ## Xcode
 
